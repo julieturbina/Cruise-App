@@ -1,0 +1,18 @@
+/* .nav-tabs {
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: -webkit-box;
+    display: -moz-box;
+  }
+  .nav-tabs>li {
+    float: none;
+  } */
+
+
+  .wrapper {
+    position:relative;
+    margin:0 auto;
+    overflow:hidden;
+	padding:5px;
+  	height:50px;
+}
